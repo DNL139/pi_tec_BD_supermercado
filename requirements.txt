@@ -1,3 +1,7 @@
 pandas
 numpy
-matplotlib
+matplotlib.pyplot
+matplotlib.offsetbox 
+OffsetImage
+AnnotationBbox
+PIL import Image
