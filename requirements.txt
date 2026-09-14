@@ -4,4 +4,4 @@ matplotlib.pyplot
 matplotlib.offsetbox 
 OffsetImage
 AnnotationBbox
-PIL import Image
+PIL
