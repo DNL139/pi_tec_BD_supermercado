@@ -32,3 +32,14 @@ A partir da base de dados escolhida, foram propostas inicialmente cinco visualiz
 - **Decisão apoiada:** Identificar categorias com avaliações inferiores e orientar investigações sobre qualidade, variedade, preço ou experiência de compra.
 
 > As análises foram desenvolvidas com Pandas e NumPy, e as cinco visualizações foram produzidas com Matplotlib.
+
+
+### Integrantes
+HENRIQUE CASSONE FERNANDES
+GUILHERME COSTA SERRA
+DANIEL FELIPE SOUZA DA SILVA
+EMANOEL LUIZ SILVA DO NASCIMENTO
+JONATHAN MUSSATO SILVA
+LUCAS PEREIRA STEFANINI
+PAULA SELVATI FERREIRA COELHO
+DEBORA TAKESHITA
